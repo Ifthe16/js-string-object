@@ -18,8 +18,3 @@ lightPen.color = 'yellow';
 lightPen.length = 7.5;
 lightPen.type = 'mechanical';
 console.log(lightPen);
-
-const book = 'physics'
-console.log(book);
-console.log(book.toUpperCase());
-console.log(book.toLowerCase());
